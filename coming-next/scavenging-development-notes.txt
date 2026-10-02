@@ -1,0 +1,13 @@
+AstralWake 0.2.5 — SCAVENGING DEVELOPMENT TEST, September 30, 2026
+
+Run AstralWake-Shipping.exe with its AstralWake and Engine folders beside it. Unreal Editor is not required. Native runtime DLLs and cooked content are included.
+
+E opens/searches nearby containers; aim at revealed contents and press E to collect. I opens inventory. Up/Down select, Enter/E feeds the companion or refills compatible weapon reserves. X sells one item for local credits. Esc/I closes. Containers are near landing-pad service areas and at authored planetary surface locations. Lumora Drift supplies independent 0-2 fruit/juice rolls. Bot oil appears only on Thalyss, Pale Wake and Vespera Prime.
+
+V changes view, J opens destinations, Shift runs on foot, F10 visits the station and F6 enters the Carrier Flight Deck when available. Existing robot and repair development features remain included.
+
+This is unfinished development work, NOT a final beta or approved public release. Reference-quality art detailing, articulated support struts, full companion collection AI, attachment equipping/crafting, networked planetary scavenging and performance certification remain unfinished. Current campaign inventory/rewards use local persistence; online scavenging mutations are disabled. Network robot gameplay and remote repairs also remain unfinished.
+
+The Last Belt DLC is excluded. No new server deployment was performed. Keep previous beta distributions separately. This package contains no Unreal project, source code or Blender authoring files. Cooked content is not a guarantee against extraction or modification.
+
+Copyright (c) 2026 Torey Hancock. Read COPYRIGHT_NOTICE.txt and ThirdPartyNotices.

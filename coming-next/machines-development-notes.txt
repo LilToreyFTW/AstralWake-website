@@ -1,0 +1,15 @@
+AstralWake planetary machines development test - September 30, 2026
+
+Extract all files and run AstralWake-Shipping.exe. Keep the AstralWake and Engine folders beside it. Unreal Editor is not required.
+
+Fly-Robot, Rollingweaver, Phycho, Surveyor, CautionBot and Annihilator populate local campaign landing regions on all twelve planets. Explore roughly 80-250 metres beyond the initial landing pad. Annihilator spawns with exactly two separate Spotter drones; CautionBot has one supporting air drone. FullTilt has exactly three legs and appears only on Solace Hollow and Astraea's Rest. Hatriarch is a high-threat event encounter on Kryll or Eclipsera: the configurable default threshold is twelve defeated machines across exploration regions; it never appears as a normal roaming spawn.
+
+Player rifles, rail weapons, purchase-terminal weapons and ship projectiles can damage the machines. Surveyor scans and relays sightings without attacking. Fly-Robot can trace and cling to blocking walls or ceilings, align its feet, observe, anticipate and leap. Rollingweaver uses physics-driven spherical contact, warns for two seconds, then detonates; its optic can disable it. Phycho closes in and uses bounded flame damage with cooldown. CautionBot spins up before suppression. Annihilator requires recent Spotter data, aims before firing, and gives a three-second visible incoming mortar arc and ground warning. FullTilt warns before radial damage and character knockback. Hatriarch sheds outer armor and becomes more aggressive as health falls.
+
+The prior AW-SC1 companion, inventory and robot work remain included. Companion & Salvage is on the home menu; F6 opens the carrier Flight Deck, then E at the rear right companion dock.
+
+PRIVATE DEVELOPMENT TEST. All nine rigs, source animation clips and reduced LODs are included as cooked game assets. Final reference-quality art, unique cinematic animations, finished fire/shockwave/scan Niagara effects, advanced locomotion polish, multiplayer machine replication and progression, clean-machine certification and performance approval remain unfinished. Some effects use bounded procedural game visuals and existing original sound cues. The planetary machine systems are local-campaign features; no server deployment was performed. Earlier game-development limitations remain applicable.
+
+The Last Belt DLC remains excluded. The package includes compiled executables, runtime DLLs and cooked content, with no loose Unreal project, C++ source, Blender or FBX authoring files. Cooked content is not a guarantee against extraction or modification.
+
+Copyright (c) 2026 Torey Hancock. Read COPYRIGHT_NOTICE.txt and ThirdPartyNotices.

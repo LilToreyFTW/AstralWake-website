@@ -1,0 +1,31 @@
+AstralWake 0.2.5 — Robot integration DEVELOPMENT TEST, September 30, 2026
+
+Run AstralWake-Shipping.exe with its AstralWake and Engine folders beside it.
+Unreal Editor and the Unreal SDK are not required. Runtime DLLs are included.
+This is a compiled Shipping candidate, NOT a final beta or approved public release.
+
+ARC-9: patrol enemies on all 12 current base-game planets. New surface regions
+populate as you explore. Directional optical detection requires exposure and
+line of sight. Cover and moving behind the optic break detection.
+Q-01 Queen: one elite spawn on Nyxara and Vespera Prime only. Eight articulated
+legs, terrain foot placement, directional sensors and telegraphed attacks.
+AR-R3: F12 while piloting a damaged small ship near the available AW-01 carrier
+opens the repair confirmation. Enter confirms 6,000 LOCAL credits. Esc cancels.
+The drone launches, tracks your ship, scans, welds, rebuilds mesh layers and
+returns to the current carrier position. Failed dispatches refund the payment.
+Online credits are separate. This service currently runs in local exploration.
+
+V changes camera, J opens destinations, Shift runs on foot.
+F10 visits the station; F6 boards the Carrier Flight Deck when available.
+
+Known development limits: visuals still need final reference-quality art polish;
+several authored clips share procedural motion; networked robot AI and remote
+repair are unfinished. Reconstruction is an ordered triangle-layer effect, with
+existing broad ship collision retained, rather than fully destructible physics.
+Carrier bay docking uses a service anchor and needs clearance testing on AW-01.
+No clean Windows VM or final performance certification has been completed.
+
+The Last Belt DLC is excluded. The older online simulation server still needs
+compatibility work; a running identity service does not validate online battles.
+Keep the September 27 final beta separately. This test does not replace it.
+Copyright (c) 2026 Torey Hancock. Read COPYRIGHT_NOTICE.txt and ThirdPartyNotices.

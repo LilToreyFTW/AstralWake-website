@@ -1,0 +1,62 @@
+ASTRALWAKE
+Copyright (c) 2026 Torey Hancock. All rights reserved.
+
+AstralWake, including its source code, game design, story ("The Meridian
+Fracture"), characters, worlds, names, dialogue, lore, artwork, 3D models,
+animations, audio, music, user interface, logos, and all other content
+(together, "the Game"), is the original work of Torey Hancock and is
+protected by copyright and other intellectual-property laws of the United
+States and other countries, including under the Berne Convention.
+
+OWNERSHIP
+Torey Hancock is the author and sole owner of the Game. Access to this beta
+does not transfer any ownership, copyright, trademark, or other rights to
+you. All rights not expressly granted are reserved.
+
+WHAT YOU MAY DO
+You may download, install, and play this beta build for personal,
+non-commercial use. You may share short screenshots and gameplay video for
+commentary or review, provided you credit "AstralWake by Torey Hancock" and
+do not claim the Game or any part of it as your own.
+
+WHAT YOU MAY NOT DO
+Without prior written permission from Torey Hancock, you may not:
+  - copy, sell, rent, sublicense, or redistribute the Game or any part of it;
+  - register, claim, or file any copyright, trademark, or other ownership
+    right in the Game, its name, its characters, its story, or its content;
+  - extract, reuse, or republish its code, art, models, audio, or text;
+  - modify, decompile, disassemble, or reverse-engineer the Game, or bypass
+    its anti-cheat or security features, except where the law expressly
+    permits this regardless of this notice;
+  - create or distribute derivative works, remakes, or clones of the Game;
+  - use the Game or its content to train or build other software or AI
+    systems.
+
+TRADEMARKS
+"AstralWake", "The Meridian Fracture", and the AstralWake logo are
+trademarks of Torey Hancock. They may not be used to identify any other
+product or service.
+
+NO AFFILIATION
+AstralWake is an independent game. It is not affiliated with, endorsed by,
+or sponsored by Bungie, Microsoft, or any other game publisher. Any other
+product names mentioned belong to their respective owners.
+
+THIRD-PARTY TECHNOLOGY
+AstralWake uses the Unreal(R) Engine. Unreal(R) is a trademark or registered
+trademark of Epic Games, Inc. in the United States of America and
+elsewhere. Unreal(R) Engine, Copyright 1998-2026, Epic Games, Inc. All
+rights reserved. Other third-party components remain the property of their
+owners and are used under their own licenses.
+
+BETA SOFTWARE
+This is pre-release software provided "as is", without warranty of any
+kind. To the extent permitted by law, Torey Hancock is not liable for any
+damages arising from its use.
+
+ENFORCEMENT
+Unauthorized use may result in removal requests, takedown notices
+(including under the U.S. Digital Millennium Copyright Act), and legal
+action.
+
+Permissions and contact: Torey Hancock

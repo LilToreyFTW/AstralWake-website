@@ -1,0 +1,13 @@
+AstralWake AW-SC1 companion development test — September 30, 2026
+
+Run AstralWake-Shipping.exe. Keep its AstralWake and Engine folders alongside it. Unreal Editor is not required.
+
+The home menu has a live AW-SC1 service-bay view. Select COMPANION & SALVAGE to view level, XP, energy, maintenance, bonuses, stored salvage, and feeding controls. Use a saved campaign character and collect feed items during exploration. F6 enters the carrier Flight Deck; the dock is in the rear starboard corner. Walk over and press E to interact. Esc closes the companion panel.
+
+Space Berry, Banana, Grape, Juice and Bot Oil each have a held item and animation. Oil provides maintenance. Feeding uses items already in inventory. XP, level, upgrades, maintenance, energy, timers and stored salvage persist in the existing profile. Salvage is produced during active local play, at configurable intervals. Collect it manually; the basket caps at 32 items. Full inventory preserves all stored rewards. Rare attachment rewards are modest; epic and legendary passive rewards are excluded. Offline time does not generate rewards.
+
+This is a PRIVATE DEVELOPMENT TEST, not a final beta or approved public release. The art remains a development interpretation of the supplied reference. Final cinematic detailing, production animation polish, full autonomous crate-search behavior, physical hand-to-item IK, finished Niagara effects, multiplayer companion progression, and clean-machine/performance certification remain unfinished. Current companion and planetary inventory rewards use local campaign persistence; online mutations are disabled. Earlier game-development limitations remain applicable.
+
+The Last Belt DLC is excluded. No VPS or Discord deployment was performed. This package contains compiled executables, runtime DLLs and cooked content; it contains no loose Unreal project, C++ source, Blender source or FBX files. Cooked content is not a guarantee against extraction or modification.
+
+Copyright (c) 2026 Torey Hancock. Read COPYRIGHT_NOTICE.txt and ThirdPartyNotices.
